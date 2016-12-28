@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BlaqCoal</string>
+
+    <!-- REQUIRED FOR GENERAL APP FUNCTIONALITY -->
+
+    <string name="title_activity_main">@string/app_name</string>
+</resources>
